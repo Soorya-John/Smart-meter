@@ -89,11 +89,14 @@ Multi-channel monitoring (per-room or per-device)
 Integration with home automation (e.g., Home Assistant)
 
 📸 Project Images
-(Add photos or wiring diagrams here)
+<img width="1075" height="749" alt="Screenshot 2025-07-29 211955" src="https://github.com/user-attachments/assets/a9fef4b9-25e7-4874-b241-2a0243bd6416" />
+<img width="893" height="690" alt="Screenshot 2025-07-29 212012" src="https://github.com/user-attachments/assets/9d1999d9-f484-46a6-97f6-524233cd30a8" />
+
 
 👨‍💻 Author
 Soorya John
 Electronics enthusiast, IoT maker, and embedded systems developer.
+
 
 📜 License
 This project is open-source and available under the MIT License.
